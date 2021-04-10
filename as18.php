@@ -27,7 +27,7 @@ function main () {
    echo "<header>";
    echo "<title>AS18</title>";
    echo "<h1>Assignment 18</h1>";
-   echo "<h3><a href='' style='color:red;'>GitHub repo</a></h3> <br></header>";
+   echo "<h3><a href='https://github.com/mmsimsac/as18' style='color:red;'>GitHub repo</a></h3> <br></header>";
    echo "<style>
         table, th, td {
             border: 1px solid chartreuse;
