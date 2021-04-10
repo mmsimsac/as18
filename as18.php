@@ -36,11 +36,9 @@ function main () {
             
         }
         div {
-            padding-left: 500px;
-            text-align: center;
         }
         header {
-            padding-right: 535px;
+            
             color: white;
         }
         body {
